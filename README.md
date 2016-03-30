@@ -28,10 +28,10 @@ Simply execute `:Expand` on your desired line or visually select a block of line
 
 ## Installation
 
-Add `Wolfy87/vim-expand` to your favourite plugin manager such as [vim-plug][], which I'm currently using in my [dotfiles][].
+Add `Olical/vim-expand` to your favourite plugin manager such as [vim-plug][], which I'm currently using in my [dotfiles][].
 
 ```viml
-Plug 'Wolfy87/vim-expand'
+Plug 'Olical/vim-expand'
 ```
 
 ## License
@@ -44,7 +44,7 @@ The [Unlicense][], so you can use this however you want, wherever you want. The 
 
 [expand]: http://vimdoc.sourceforge.net/htmldoc/eval.html#expand%28%29
 [vim-plug]: https://github.com/junegunn/vim-plug
-[dotfiles]: https://github.com/Wolfy87/dotfiles
+[dotfiles]: https://github.com/Olical/dotfiles
 [unlicense]: http://unlicense.org/
 [Oliver Caldwell]: http://oli.me.uk/
 [@OliverCaldwell]: https://twitter.com/OliverCaldwell
